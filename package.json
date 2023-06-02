@@ -1,0 +1,22 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ArthurKova/hw-11",
+  "description": "hw-11",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /hw-11/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKova/hw-11.git"
+  },
+  "keywords": [],
+  "author": "Arthur Kovalenko <metaloutcome@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.1",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
+  }
+}
