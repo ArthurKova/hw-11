@@ -1,15 +1,15 @@
 {
   "name": "homework",
   "version": "1.0.0",
-  "homepage": "https://github.com/ArthurKova/hw-11",
-  "description": "hw-11",
+  "homepage": "https://github.com/ArthurKova/hw-11-1",
+  "description": "hw-11-1",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /hw-11/"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /hw-11-1/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArthurKova/hw-11.git"
+    "url": "git+https://github.com/ArthurKova/hw-11-1.git"
   },
   "keywords": [],
   "author": "Arthur Kovalenko <metaloutcome@gmail.com>",
